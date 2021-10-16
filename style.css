@@ -1,9 +1,9 @@
-main p {
+main img {
+	height:200px;
 	background-color: light-blue;
 	color: violet;
 }
-
 footer p {
-	background-color: white;
-color: black;
+	background-color: black;
+color: grey;
 }
